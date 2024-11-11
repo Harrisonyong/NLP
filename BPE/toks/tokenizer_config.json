@@ -1,0 +1,11 @@
+{
+    "unk_token": "[UNK]",
+    "sep_token": "[SEP]",
+    "pad_token": "[PAD]",
+    "cls_token": "[CLS]",
+    "mask_token": "[MASK]",
+    "model_max_length": 512,
+    "tokenizer_class": "YTokenizer",
+    "name_or_path": "/home/mai-llm-train-service/yql/AI/BPE/toks",
+    "tokenizer_type": "YTokenizer"
+}
